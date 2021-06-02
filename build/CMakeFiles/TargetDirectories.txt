@@ -1,0 +1,2 @@
+C:/Users/zelda/Coding/Git/C++/CompressingHelloWorld/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/zelda/Coding/Git/C++/CompressingHelloWorld/build/CMakeFiles/ZERO_CHECK.dir

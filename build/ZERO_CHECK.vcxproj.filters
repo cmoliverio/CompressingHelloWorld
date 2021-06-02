@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\zelda\Coding\Git\C++\CompressingHelloWorld\build\CMakeFiles\6cfdd3eb13ae6d82b728f30696c50181\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3D975B3E-7C1A-3F61-B5CD-E60E69D06E5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
